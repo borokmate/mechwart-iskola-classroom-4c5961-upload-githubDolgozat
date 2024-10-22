@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Borók Máté
+osztály: 10.F
